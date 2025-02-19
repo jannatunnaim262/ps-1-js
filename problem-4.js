@@ -14,6 +14,6 @@ function isBestFriend(friend1,friend2){
 
 }
 const friend = [
-    {name:"hashem",roll:1,bestfriend:11}
+    {name:"hashem",roll:1,bestfriend:2},{name:"kashem", roll:2, bestfriend:1}
 ];
 console.log(isBestFriend(friend[0],friend[1]));
